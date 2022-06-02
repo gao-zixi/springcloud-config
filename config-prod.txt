@@ -1,0 +1,2 @@
+prod:
+  config-prod-version="1"
